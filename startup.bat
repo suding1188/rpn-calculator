@@ -1,0 +1,1 @@
+java -jar -Xms32m -Xmx128m rpn-calculator.jar
